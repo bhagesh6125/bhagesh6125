@@ -1,96 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Bhagesh%20C&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Bachelor%20of%20Engineering%20in%20Information%20Science&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0284c7&height=200&section=header&text=Bhagesh%20C&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Information%20Science%20Engineering%20Student%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Java+%7C+Python+Developer;Building+mini-projects+%26+solving+problems;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=850&height=45&lines=Information+Science+Engineering+Student;AI+Enthusiast+%7C+Aspiring+Software+Engineer;Learning+Python%2C+Java%2C+C+%26+Data+Structures;Exploring+AI+Tools+%26+AI-Driven+Development" alt="Typing SVG" width="100%"/>
 </a>
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=black)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black)
 
-<img src="https://komarev.com/ghpvc/?username=bhagesh6125&color=7dd3fc&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/bhagesh6125?label=Followers&style=for-the-badge&color=7dd3fc" alt="Followers"/>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=bhageshc51-prog&color=7dd3fc&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/bhageshc51-prog?style=flat-square&color=7dd3fc&labelColor=black&label=Followers)
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 Who I Am
+## About Me
+
+- 🎓 Information Science Engineering student
+- 🤖 AI enthusiast, exploring how AI tools can support real development work
+- 💻 Learning software development fundamentals through Python, Java, and C
+- 🌱 Currently strengthening my problem-solving and Data Structures skills
+- 🚀 Aspiring Software Engineer, building step by step
+
+<br/>
+
+## Who I Am
 
 ```typescript
-const bhagesh = {
-  title: "Bachelor of Engineering in Information Science",
-  stack: ["Java", "Python"],
-  launchedProjects: ["python"],
+const bhageshC = {
+  title: "Information Science Engineering Student | AI Enthusiast | Aspiring Software Engineer",
+  stack: ["Python", "Java", "C", "HTML", "CSS", "Git", "GitHub", "VS Code", "Gemini", "NotebookLM", "AI Tools"],
+  launchedProjects: [], // 🚧 building — nothing shipped publicly yet
   certifications: [],
-  status: "Learning, building, and solving problems every day",
-  openTo: "New opportunities and collaborations",
+  status: "Learning, building, and exploring AI-driven development",
+  openTo: ["Internships", "Entry-level Software Engineering roles", "Collaborative projects"]
 };
 ```
 
----
+<br/>
 
-## 🚀 Featured Projects
-
-### 🐍 python
-
-Python learning repository with programs, coding exercises, mini-projects, and problem-solving examples created during my engineering journey.
+## Currently Learning
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhagesh6125&repo=python&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="python repo pin"/>
+
+![Python](https://img.shields.io/badge/Python-7dd3fc?style=for-the-badge&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-7dd3fc?style=for-the-badge&logo=openjdk&logoColor=black)
+![C](https://img.shields.io/badge/C-7dd3fc?style=for-the-badge&logo=c&logoColor=black)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-7dd3fc?style=for-the-badge&logo=leetcode&logoColor=black)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-7dd3fc?style=for-the-badge&logo=openai&logoColor=black)
+![AI Tools](https://img.shields.io/badge/AI%20Tools-7dd3fc?style=for-the-badge&logo=googlegemini&logoColor=black)
+
 </div>
 
-| Layer | Technology |
-|-------|-----------|
-| Language | Python |
-| Type | Learning / Practice Repository |
+<br/>
 
-🔗 **Code:** [github.com/bhagesh6125/python](https://github.com/bhagesh6125/python)
+## My Current Focus
 
----
+- 🧩 Strengthening programming fundamentals
+- 📊 Learning Data Structures
+- 🤖 Exploring AI tools and AI-driven development
+- 🏗️ Building projects step by step
+- 🔧 Improving Git and GitHub skills
 
-## 🛠️ Tech Stack
+<br/>
+
+## Tech Stack
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=java,python)
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css" />
 
----
+**Dev Tools**
 
-## 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-<div align="center">
+**AI Tools**
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhagesh6125&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagesh6125&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/>
+![Gemini](https://img.shields.io/badge/Gemini-7dd3fc?style=for-the-badge&logo=googlegemini&logoColor=black)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-7dd3fc?style=for-the-badge&logo=googlebard&logoColor=black)
 
-<img src="https://streak-stats.demolab.com?user=bhagesh6125&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
+<br/>
 
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bhagesh6125&no-frame=true&no-bg=true&theme=nord&column=7" alt="GitHub Trophies"/>
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagesh6125&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 📫 Connect
+## GitHub Activity
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black)](mailto:bhageshc51@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=black&labelColor=black)](https://github.com/bhagesh6125)
+<img src="https://streak-stats.demolab.com?user=bhageshc51-prog&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&cache_seconds=1800" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhageshc51-prog&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+<br/>
+
+## Goals
+
+- ✅ Build and publish my first complete software project
+- ✅ Improve problem-solving and Data Structures skills
+- ✅ Learn more about Artificial Intelligence
+- ✅ Contribute to open-source projects in the future
+- ✅ Prepare for software engineering internships
+
+<br/>
+
+<div align="center">
+
+> *"Learning today. Building tomorrow. Growing every day."*
+
+</div>
+
+<br/>
+
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/bhagesh-c-737b5839b)
+[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:bhageshc51@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/bhageshc51-prog)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:7dd3fc&height=130&section=footer" width="100%"/>
